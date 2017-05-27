@@ -1,0 +1,24 @@
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Newtonsoft.Json.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Newtonsoft.Json.xml
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Newtonsoft.Json.dll
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Newtonsoft.Json.xml
+D:\IoTHub\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\ApplicationInsights.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\csc.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\vbc.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\VBCSCompiler.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\JavascriptClient.dll.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\JavascriptClient.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\JavascriptClient.pdb
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.Web.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.ApplicationInsights.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.Web.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.ApplicationInsights.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.csprojResolveAssemblyReference.cache
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.pdb
+D:\IoTHub\IoTHub\JavascriptClient\bin\ApplicationInsights.config
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\csc.exe
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\System.Collections.Immutable.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\vbc.exe
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\VBCSCompiler.exe
+D:\IoTHub\IoTHub\JavascriptClient\bin\roslyn\VBCSCompiler.exe.config
+D:\IoTHub\IoTHub\JavascriptClient\bin\JavascriptClient.dll.config
+D:\IoTHub\IoTHub\JavascriptClient\bin\JavascriptClient.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\JavascriptClient.pdb
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.Web.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.WindowsServer.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.ApplicationInsights.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.Web.xml
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.AI.WindowsServer.xml
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.ApplicationInsights.xml
+D:\IoTHub\IoTHub\JavascriptClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IoTHub\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.csprojResolveAssemblyReference.cache
+D:\IoTHub\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.dll
+D:\IoTHub\IoTHub\JavascriptClient\obj\Debug\JavascriptClient.pdb

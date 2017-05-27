@@ -1,0 +1,58 @@
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PCLCrypto.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.BCrypt.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Kernel32.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.NCrypt.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Windows.Core.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Validation.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PCLCrypto.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.BCrypt.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Kernel32.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.NCrypt.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Windows.Core.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Validation.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PCLCrypto.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.BCrypt.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Kernel32.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.NCrypt.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Windows.Core.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Validation.dll
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PCLCrypto.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.BCrypt.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Kernel32.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.NCrypt.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\PInvoke.Windows.Core.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\bin\Debug\Validation.xml
+D:\IoTHub\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+D:\IoTHub\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\IoTHub\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb

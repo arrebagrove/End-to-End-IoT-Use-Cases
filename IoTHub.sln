@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDeviceIdentity", "CreateDeviceIdentity\CreateDeviceIdentity.csproj", "{90202EFB-F1D8-42AC-8572-E753A0362D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDeviceToCloudMessages", "ReadDeviceToCloudMessages\ReadDeviceToCloudMessages.csproj", "{853A444E-E552-4FA8-9D10-6D441D6346BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedDevice", "SimulatedDevice\SimulatedDevice.csproj", "{5CEFB963-8F32-434C-BF39-88FF52436995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingHub", "StreamingHub\StreamingHub.csproj", "{00488BB1-74F1-4B7F-80E1-11B2DF93A00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptClient", "JavascriptClient\JavascriptClient.csproj", "{DCCABF29-2DD6-4B73-BEF3-A7283A8B2758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendCloudToDevice", "SendCloudToDevice\SendCloudToDevice.csproj", "{A58D12FA-0111-4EE9-8AC4-1EDFEB07661C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90202EFB-F1D8-42AC-8572-E753A0362D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90202EFB-F1D8-42AC-8572-E753A0362D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90202EFB-F1D8-42AC-8572-E753A0362D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90202EFB-F1D8-42AC-8572-E753A0362D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853A444E-E552-4FA8-9D10-6D441D6346BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853A444E-E552-4FA8-9D10-6D441D6346BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853A444E-E552-4FA8-9D10-6D441D6346BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853A444E-E552-4FA8-9D10-6D441D6346BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEFB963-8F32-434C-BF39-88FF52436995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEFB963-8F32-434C-BF39-88FF52436995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEFB963-8F32-434C-BF39-88FF52436995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEFB963-8F32-434C-BF39-88FF52436995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00488BB1-74F1-4B7F-80E1-11B2DF93A00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00488BB1-74F1-4B7F-80E1-11B2DF93A00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00488BB1-74F1-4B7F-80E1-11B2DF93A00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00488BB1-74F1-4B7F-80E1-11B2DF93A00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCABF29-2DD6-4B73-BEF3-A7283A8B2758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCABF29-2DD6-4B73-BEF3-A7283A8B2758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCABF29-2DD6-4B73-BEF3-A7283A8B2758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCABF29-2DD6-4B73-BEF3-A7283A8B2758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58D12FA-0111-4EE9-8AC4-1EDFEB07661C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58D12FA-0111-4EE9-8AC4-1EDFEB07661C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58D12FA-0111-4EE9-8AC4-1EDFEB07661C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58D12FA-0111-4EE9-8AC4-1EDFEB07661C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+	EndGlobalSection
+EndGlobal

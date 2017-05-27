@@ -1,0 +1,48 @@
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\StreamingHub.exe.config
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\StreamingHub.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\StreamingHub.pdb
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Cors.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Diagnostics.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Newtonsoft.Json.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Owin.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\System.Web.Cors.dll
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Cors.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Diagnostics.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\bin\Debug\Newtonsoft.Json.xml
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\obj\Debug\StreamingHub.csprojResolveAssemblyReference.cache
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\obj\Debug\StreamingHub.exe
+c:\users\cognizant\documents\visual studio 2015\Projects\IoTHub\StreamingHub\obj\Debug\StreamingHub.pdb
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\StreamingHub.exe.config
+D:\IoTHub\IoTHub\StreamingHub\obj\Debug\StreamingHub.exe
+D:\IoTHub\IoTHub\StreamingHub\obj\Debug\StreamingHub.pdb
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\StreamingHub.exe
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\StreamingHub.pdb
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Cors.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Diagnostics.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Security.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Newtonsoft.Json.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Owin.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\System.Web.Cors.dll
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Cors.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Diagnostics.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Microsoft.Owin.Security.xml
+D:\IoTHub\IoTHub\StreamingHub\bin\Debug\Newtonsoft.Json.xml
+D:\IoTHub\IoTHub\StreamingHub\obj\Debug\StreamingHub.csprojResolveAssemblyReference.cache
