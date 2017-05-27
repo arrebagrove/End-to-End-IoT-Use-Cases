@@ -11,8 +11,8 @@ namespace SimulatedDevice
     class Program
     {
         static DeviceClient deviceClient;
-        static string iotHubUri = "cts.azure-devices.net";
-        static string deviceKey = "3s4n2xiVXIIWyWB3n0qq/nCtZUdtS8+EwwzpyXfZdoo=";
+        static string iotHubUri = "<<PUT_YOUR_IOT_HUB_HOST_NAME_HERE>>";
+        static string deviceKey = "<<PUT_DEVICE_KEY_GENERATED_IN_CONSOLE_OUTPUT_OF_VSPROJECT_CreateDeviceIdentity>>";
 
         static void Main(string[] args)
         {

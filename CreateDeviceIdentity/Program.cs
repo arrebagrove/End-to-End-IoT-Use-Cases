@@ -11,7 +11,7 @@ namespace CreateDeviceIdentity
     class Program
     {
         static RegistryManager registryManager;
-        static string connectionString = "HostName=cts.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=RLpl4TOC1dULFWZNEnvYy5rgOF2XH9kJwhNEH6n5JGY=";
+        static string connectionString = "<<PUT_YOUR_IOT_HUB_CONNECTION_STRING_HERE>>";
 
         static void Main(string[] args)
         {
